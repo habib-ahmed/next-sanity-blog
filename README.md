@@ -1,4 +1,6 @@
-##Packages installed: 
+## Go Dashboard: https://next-sanity-blog-nine.vercel.app/studio
+
+## Packages installed: 
 
 ```bash
 npm i -D @tailwindcss/typography
