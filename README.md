@@ -1,3 +1,13 @@
+##Packages installed: 
+
+```bash
+npm i -D @tailwindcss/typography
+npm i next-themes
+npm i --save @portabletext/react
+
+npm create sanity@latest -- --template clean --create-project "Sanity Project" --dataset production
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
